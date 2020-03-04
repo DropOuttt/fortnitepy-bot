@@ -2,3 +2,4 @@ fortnitepy
 aiohttp
 colorama
 BenBotAsync==1.0.1
+gunicorn==19.0.0
